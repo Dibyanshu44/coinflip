@@ -17,3 +17,4 @@ function toss(){
         document.querySelector(".tails").innerHTML="Tails:"+t;
     },1800);
 }
+document.querySelector(".coin").addEventListener("click",toss);
