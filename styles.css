@@ -8,3 +8,8 @@ h1{
 .btn{
     text-align: center;
 }
+.counter{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
